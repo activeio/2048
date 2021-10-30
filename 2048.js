@@ -4,6 +4,7 @@ var board = [
     [0, 0, 0, 0],
     [0, 0, 0, 0]
 ]
+var isdone = false
 const n = 4
 
 var prev_count = {
